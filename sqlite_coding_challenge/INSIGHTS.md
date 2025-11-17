@@ -22,4 +22,3 @@ Task 4 Cities With the Most Loyal Customers**
 - Tampa was the only city with customers who achieved Gold-level loyalty status (total of 4).
 - No other city in the dataset reached Gold-level status.
 - This may suggest that Tampa has stronger engagement or customer-focused strategies that could be applied to other locations.
-
